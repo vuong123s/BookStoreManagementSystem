@@ -1,0 +1,12 @@
+D:\Vương\New folder\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Debug\WindowsFormsApp3.exe.config
+D:\Vương\New folder\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Debug\WindowsFormsApp3.exe
+D:\Vương\New folder\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Debug\WindowsFormsApp3.pdb
+D:\Vương\New folder\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\Vương\New folder\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.Form1.resources
+D:\Vương\New folder\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.Home.resources
+D:\Vương\New folder\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Vương\New folder\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.RegisterForm.resources
+D:\Vương\New folder\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\Vương\New folder\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\Vương\New folder\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.exe
+D:\Vương\New folder\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.pdb
